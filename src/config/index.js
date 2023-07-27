@@ -11,7 +11,7 @@ export const regionInfoData = {
         speedUnit: 'kmph',
         distanceUnit: 'kilometers',
         volumeUnit: 'liters',
-        timezone: ['GMT'], 
+        timezone: ['IST'], 
       },
       'United States': {
         currency: 'Dollars',

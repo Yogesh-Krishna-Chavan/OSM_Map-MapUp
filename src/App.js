@@ -56,7 +56,7 @@ const App =  () => {
         onChange={handleRegionChange}
         onSubmit={handleLoadButtonClick}
       />
-      <Card style={{ marginTop: '5px', border: '2px solid #ccc', borderRadius: '8px', color: 'blue' }}>
+      <Card style={{ marginTop: '5px', display: 'inline-block', border: '2px solid #ccc', borderRadius: '8px', color: 'blue' }}>
       <RegionInfo regionInfo={regionInfo} />
       </Card>
       </div>

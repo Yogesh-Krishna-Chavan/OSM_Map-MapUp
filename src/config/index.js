@@ -11,20 +11,20 @@ export const regionInfoData = {
         speedUnit: 'kmph',
         distanceUnit: 'kilometers',
         volumeUnit: 'liters',
-        timezone: ['2023 Mar 03 09:12:41.211 GMT', 'T2023 Mar 04 09:12:41.211 GMT'], 
+        timezone: ['GMT'], 
       },
       'United States': {
         currency: 'Dollars',
         speedUnit: 'mph',
         distanceUnit: 'miles',
         volumeUnit: 'gallons',
-        timezone: ['2023 Mar 03 09:12:41.211 EST', 'T2023 Mar 04 09:12:41.211 EST'],
+        timezone: ['EST'],
       },      
       'United Kingdom': {
         currency: 'Pounds',
         speedUnit: 'mph',
         distanceUnit: 'miles',
         volumeUnit: 'liters',
-        timezone: ['2023 Mar 03 09:12:41.211 GMT', 'T2023 Mar 04 09:12:41.211 GMT'],
+        timezone: ['BST'],
       }
   }
